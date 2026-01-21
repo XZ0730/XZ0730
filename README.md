@@ -2,8 +2,8 @@
 
 - 🔭 CS student of FZU
 - 👉 focus on golang
-- 🏃 learning to contribute open-source and preparing algorithm<next month>
-- 🙏 reviewing for exam now
+- 🏃 learning
+- 🙏 finding job
 - 📫 How to reach me: zhangxin@west2.online
 
 
