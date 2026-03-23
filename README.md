@@ -1,6 +1,6 @@
 ### Hi there 👋,I'm XZ.
 
-- 📫 How to reach me: zhangxin@west2.online
+- 📫 How to reach me: zzzX730@qq.com
 
 
 
